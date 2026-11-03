@@ -58,7 +58,56 @@ Add a graphical user interface (GUI).
 Introduce user authentication.
 👨‍💻 Author
 
+📸 Output / Screenshots
 
+The Project Expense Tracker provides a simple and user-friendly interface for managing project expenses.
+
+1. Main Menu
+
+Displays the available options for managing project expenses.
+
+2. Add Expense
+
+Allows users to enter expense details such as expense name, amount, date, and category.
+
+3. View Expenses
+
+Displays all the recorded project expenses in an organized format.
+
+4. Total Expense Summary
+
+Calculates and displays the total expenses incurred during the project.
+
+5. Final Output
+
+Provides an overview of all project expenses, helping users monitor and manage their budget effectively.
+
+Sample Output
+text
+=================================
+      PROJECT EXPENSE TRACKER
+=================================
+1. Add Expense
+2. View Expenses
+3. Calculate Total Expenses
+4. Exit
+
+Enter your choice: 1
+
+Enter Expense Name: Transportation
+Enter Amount: 500
+Enter Date: 03-11-2026
+
+Expense added successfully!
+
+=================================
+       TOTAL EXPENSE SUMMARY
+=================================
+Total Expenses: ₹500
+=================================
+
+
+Note: The above is an illustrative sample output. Actual output may vary depending on your project implementation.
 
 GitHub:
 
